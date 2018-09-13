@@ -1,0 +1,1 @@
+Test work for RIT, for watch work this application input in terminal yarn install, then yarn start.
